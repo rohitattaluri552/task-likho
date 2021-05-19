@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tasklikho-4cf50": {
+      "hosting": {
+        "kanban-fire1": [
+          "tasklikho-4cf50"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tasklikho-4cf50"
+  }
+}
